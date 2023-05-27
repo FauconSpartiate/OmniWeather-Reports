@@ -1,0 +1,12 @@
+{
+  "time": "2022-05-22 11:00",
+  "UNIX": 1653210000,
+  "temperature": 25,
+  "humidity": 52,
+  "UV": 1,
+  "rain": 2737,
+  "wind_speed": 0,
+  "wind_direction": "N",
+  "barometric_pressure": 988,
+  "altitude": 206
+}

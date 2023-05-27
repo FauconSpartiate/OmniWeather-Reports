@@ -1,0 +1,12 @@
+{
+  "time": "2022-06-13 09:36",
+  "UNIX": 1655105760,
+  "temperature": 25,
+  "humidity": 35,
+  "UV": 1,
+  "rain": 0,
+  "wind_speed": 0,
+  "wind_direction": "SE",
+  "barometric_pressure": 985,
+  "altitude": 235
+}

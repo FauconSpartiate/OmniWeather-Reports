@@ -1,0 +1,12 @@
+{
+  "time": "2022-06-08 16:00",
+  "UNIX": 1654696800,
+  "temperature": 23,
+  "humidity": 49,
+  "UV": 1,
+  "rain": 0,
+  "wind_speed": 0,
+  "wind_direction": "???",
+  "barometric_pressure": 971,
+  "altitude": 354
+}
