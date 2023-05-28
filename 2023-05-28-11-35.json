@@ -1,1 +1,0 @@
-{"message":"1970-01-01 01:00","content":"{\r\n  \"time\": \"1970-01-01 01:00\",\r\n  \"UNIX\": 20,\r\n  \"temperature\": 0,\r\n  \"humidity\": 0,\r\n  \"UV\": 260,\r\n  \"rain\": 0,\r\n  \"wind_speed\": 0,\r\n  \"wind_direction\": \"Error\",\r\n  \"barometric_pressure\": 0,\r\n  \"altitude\": 44330\r\n}","branch":"main"}
