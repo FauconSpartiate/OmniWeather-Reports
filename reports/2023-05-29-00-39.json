@@ -1,0 +1,12 @@
+{
+  "time": "2023-05-29 00:39",
+  "UNIX": 1685313540,
+  "temperature": 0,
+  "humidity": 0,
+  "UV": 260,
+  "rain": 0,
+  "wind_speed": 0,
+  "wind_direction": "Error",
+  "barometric_pressure": 0,
+  "altitude": 44330
+}
